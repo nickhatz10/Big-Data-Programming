@@ -1,5 +1,4 @@
 # program written by Nick Hatzenbeller
-# collaboration with: Colby Petelinkar
 
 # import the functions that we will be using from the hwfunctions file
 # import dask delayed as well to run the delayed parallel functions
