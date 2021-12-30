@@ -1,0 +1,5 @@
+python3 lettercount.py $MR_OPT \
+    --jobconf mapred.reduce.tasks=4 \
+    hdfs:///ds410/warandpeace \
+    --output-dir hdfs:///user/nah5390/letter_count_output \
+    --no-output
