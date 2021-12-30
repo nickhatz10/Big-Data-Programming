@@ -1,4 +1,4 @@
-These are a couple MapReduce programs that I wrote for different assignments for my Data Science class. The assignment description for each seperate MapReduce assignment is provided below to better understand the purpose of the program.
+These are a couple MapReduce programs that I wrote for different assignments for my Data Science class. The assignment description for each seperate MapReduce assignment is provided below to better understand the purpose of the program. This folder also contains the run files that allow me to run my MapReduce programs.
 
 WORD LENGTH. We want to do a word-size count on “War and Peace” (/ds410/warandpeace in HDFS). That
 is, for every number, we want to know how many words have that many characters in it. In the output, the
