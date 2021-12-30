@@ -1,0 +1,5 @@
+python3 q1.py $MR_OPT \
+    --jobconf mapred.reduce.tasks=4 \
+    hdfs:///ds410/facebook \
+    --output-dir hdfs:///user/nah5390/q1_node_output \
+    --no-output
