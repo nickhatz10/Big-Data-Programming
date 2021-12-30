@@ -120,11 +120,5 @@ object HW {
       }
    }
 
-   def q9_neumaier(seq_doub: Seq[Double]): Double = {
-
-      0.0
-      
-   }
-
 
 }
